@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>merlion (cloud9 USA) Virtual Airlines</name>
+				<neo-texture>Liveries/MIAC9neoUSA.png</neo-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>

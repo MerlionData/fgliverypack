@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+	<sim>
+		<model>
+			<livery>
+				<name>Merlion Virtual Airlines</name>
+				<texture>Liveries/CRJ700/MIA.png</texture>
+				<registration>S-MLIA</registration>
+			</livery>
+		</model>
+	</sim>
+
+</PropertyList>

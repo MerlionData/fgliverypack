@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+	<sim>
+		<model>
+			<livery>
+				<name>Merlion | Indonesia</name>
+				<texture>Liveries/CRJ700LR/MIA-IN.png</texture>
+				<registration>PK-LGD</registration>
+			</livery>
+		</model>
+	</sim>
+
+</PropertyList>
